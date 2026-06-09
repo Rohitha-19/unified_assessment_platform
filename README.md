@@ -63,7 +63,6 @@ npm run dev
 Open your browser and visit:
 
 **Backend**
-The backend server runs at:
 ```text
 http://localhost:5000
 ```
