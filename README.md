@@ -1,8 +1,8 @@
-#🎓 Unified Assessment Platform
+# 🎓 Unified Assessment Platform
 
 A modern full-stack web application for managing online assessments, evaluations, and performance analytics through role-based dashboards.
 
-**🚀 Features**
+## 🚀 Features
 
 - 🔐 JWT Authentication & Authorization
 - 👨‍🎓 Student Dashboard
@@ -14,9 +14,9 @@ A modern full-stack web application for managing online assessments, evaluations
 - 🌙 Dark/Light Theme Support
 - 📱 Fully Responsive SaaS UI
 
-**🛠️ Tech Stack**
+## 🛠️ Tech Stack
 
-###Frontend
+### Frontend
 
 - React (Vite)
 - Tailwind CSS
@@ -25,18 +25,61 @@ A modern full-stack web application for managing online assessments, evaluations
 - Recharts
 - Lucide Icons
 
-###Backend
+### Backend
 
 - Node.js
 - Express.js
 - JWT Authentication
 - Mock In-Memory Data
 
-**📌 Internship Project**
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Make sure you have installed:
+
+* Node.js (v18 or later)
+* npm
+
+### Installation
+
+**Backend & Frontend**
+```bash
+npm install
+```
+
+### Run Development Server
+
+**Backend**
+```bash
+npm start
+```
+**Frontend**
+```bash
+npm run dev
+```
+
+Open your browser and visit:
+
+**Backend**
+The backend server runs at:
+```text
+http://localhost:5000
+```
+
+**Frontend**
+```text
+http://localhost:5173
+```
+
+---
+
+## 📌 Internship Project
 
 Developed as part of a 1-Month Internship Program at OneYes Infotech Solutions, Chennai.
 
-**⭐ Project Overview**
+## ⭐ Project Overview
 
 The Unified Assessment Platform enables students to take assessments, instructors to create and evaluate assessments, and administrators to manage users and monitor system activities through a modern SaaS-style dashboard experience.
 
